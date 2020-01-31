@@ -6,4 +6,5 @@
   - Fix some bug with Rainlab.User login form errors
 1.0.3:
   - fastfix
-  
+1.0.4:
+  - Add security permission for settings page
