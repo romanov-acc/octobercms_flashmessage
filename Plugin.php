@@ -26,7 +26,8 @@ class Plugin extends PluginBase
                 'url'         => Backend::url('romanov/flashmessage/settings'),
                 'order'       => 501,
                 'category'    => 'system::lang.system.categories.cms',
-                'keywords'    => 'flash message'
+                'keywords'    => 'flash message',
+                'permissions' => ['romanov.flashmessage.editconfigurations']
             ]
         ];
     }

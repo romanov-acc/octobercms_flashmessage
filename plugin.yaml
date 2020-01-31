@@ -1,0 +1,4 @@
+permissions:
+    romanov.flashmessage.editconfigurations:
+        tab: 'Flash message'
+        label: 'Manage Flash Message configurations'
